@@ -1,0 +1,26 @@
+<annotation>
+	<folder>personnel</folder>
+	<filename>000092.png</filename>
+	<path>/home/wy/YOLOv3_SaveVideo-master/darknet/data/personnel/000092.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>112</width>
+		<height>142</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>worker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>42</ymin>
+			<xmax>54</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>

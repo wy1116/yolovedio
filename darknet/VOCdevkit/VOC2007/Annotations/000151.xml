@@ -1,0 +1,26 @@
+<annotation>
+	<folder>personnel</folder>
+	<filename>000151.jpg</filename>
+	<path>/home/wy/YOLOv3_SaveVideo-master/darknet/data/personnel/000151.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>noworker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>240</ymin>
+			<xmax>428</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>
